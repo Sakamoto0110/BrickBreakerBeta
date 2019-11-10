@@ -1,0 +1,11 @@
+
+LevelId:1
+LevelTag:tutorial
+StartRows:3
+TimeBetweenNewRows:700
+EnemySheet:default
+Start
+11111111111
+11111111111
+11111111111
+End
